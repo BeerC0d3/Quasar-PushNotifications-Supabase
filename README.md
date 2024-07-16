@@ -1,4 +1,4 @@
-# Quasar app pushNotifications (quasar-pushnotifications-fcm)
+# Quasar app pushNotifications with firebase and supabase(WebHooks).
 
 A Quasar Project
 
